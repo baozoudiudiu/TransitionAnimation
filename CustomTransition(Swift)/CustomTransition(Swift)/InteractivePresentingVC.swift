@@ -20,7 +20,7 @@ class InteractivePresentingVC: UIViewController {
     
     private func configureUI() {
         
-        self.view.backgroundColor = UIColor.yellow
+        self.view.backgroundColor = UIColor.blue
     }
     
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
